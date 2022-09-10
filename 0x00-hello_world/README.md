@@ -1,1 +1,1 @@
-Compiles a C file
+Script that prints
