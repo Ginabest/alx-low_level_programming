@@ -1,1 +1,1 @@
-Creates a C file and saves in a different extention
+Compiles a C file
