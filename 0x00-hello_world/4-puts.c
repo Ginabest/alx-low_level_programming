@@ -1,4 +1,4 @@
-#include <stdio.h>
+{#include <stdio.h>
 /**
  * main-Entry point, prints Programming is like building a multilingual puzzle
  *
@@ -8,4 +8,4 @@ int main (void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
-}
+}}
