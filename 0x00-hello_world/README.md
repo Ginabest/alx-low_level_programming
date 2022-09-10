@@ -1,1 +1,1 @@
-Creates a C file but does not link
+Creates a C file and saves in a different extention
