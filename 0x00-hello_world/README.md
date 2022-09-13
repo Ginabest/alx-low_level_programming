@@ -1,1 +1,1 @@
-Script that prints with printf
+Script that prints sizes of computers
