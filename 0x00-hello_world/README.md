@@ -1,1 +1,1 @@
-Script that prints
+Script that prints with printf
