@@ -1,1 +1,1 @@
-Function that takes a pointer to an int
+Function that swaps the values of two integers
